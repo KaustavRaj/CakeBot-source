@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pic/logo.png</file>
+        <file>CakeBotWelcome.qml</file>
+        <file>ChatZone.qml</file>
+        <file>pic/WelcomeFront.png</file>
+        <file>pic/start.png</file>
+        <file>font/DeliusSwashCaps-Regular.ttf</file>
+        <file>pic/logo_16x16.ico</file>
+        <file>pic/logo_32x32.ico</file>
+        <file>pic/logo_48x48.ico</file>
+        <file>pic/logo_64x64.ico</file>
+        <file>pic/logo_256x256.ico</file>
+        <file>pic/wallpaper.jpg</file>
+        <file>pic/logo_48x48_png.png</file>
+        <file>pic/confectionery.png</file>
+        <file>font/cac_champagne.ttf</file>
+        <file>font/cmu_typewriter.ttf</file>
+        <file>font/ClickerScript-Regular.ttf</file>
+        <file>pic/welcome_wallpaper.png</file>
+        <file>pic/bubble.jpeg</file>
+        <file>pic/voice_icon.png</file>
+        <file>pic/voice.png</file>
+        <file>pic/voice_disable.png</file>
+        <file>pic/voice_enable.png</file>
+    </qresource>
+</RCC>

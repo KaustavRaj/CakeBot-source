@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="pic/logo.png">../CakeBot/pic/logo.png</file>
+        <file alias="pic/WelcomeFront.png">../CakeBot/pic/WelcomeFront.png</file>
+        <file alias="pic/start.png">../CakeBot/pic/start.png</file>
+        <file alias="font/DeliusSwashCaps-Regular.ttf">../CakeBot/font/DeliusSwashCaps-Regular.ttf</file>
+        <file alias="pic/logo_16x16.ico">../CakeBot/pic/logo_16x16.ico</file>
+        <file alias="pic/logo_32x32.ico">../CakeBot/pic/logo_32x32.ico</file>
+        <file alias="pic/logo_48x48.ico">../CakeBot/pic/logo_48x48.ico</file>
+        <file alias="pic/logo_64x64.ico">../CakeBot/pic/logo_64x64.ico</file>
+        <file alias="pic/logo_256x256.ico">../CakeBot/pic/logo_256x256.ico</file>
+        <file alias="pic/wallpaper.jpg">../CakeBot/pic/wallpaper.jpg</file>
+        <file alias="pic/logo_48x48_png.png">../CakeBot/pic/logo_48x48_png.png</file>
+        <file alias="pic/confectionery.png">../CakeBot/pic/confectionery.png</file>
+        <file alias="font/cac_champagne.ttf">../CakeBot/font/cac_champagne.ttf</file>
+        <file alias="font/cmu_typewriter.ttf">../CakeBot/font/cmu_typewriter.ttf</file>
+        <file alias="font/ClickerScript-Regular.ttf">../CakeBot/font/ClickerScript-Regular.ttf</file>
+        <file alias="pic/welcome_wallpaper.png">../CakeBot/pic/welcome_wallpaper.png</file>
+        <file alias="pic/bubble.jpeg">../CakeBot/pic/bubble.jpeg</file>
+        <file alias="pic/voice_icon.png">../CakeBot/pic/voice_icon.png</file>
+        <file alias="pic/voice.png">../CakeBot/pic/voice.png</file>
+        <file alias="pic/voice_disable.png">../CakeBot/pic/voice_disable.png</file>
+        <file alias="pic/voice_enable.png">../CakeBot/pic/voice_enable.png</file>
+    </qresource>
+</RCC>
